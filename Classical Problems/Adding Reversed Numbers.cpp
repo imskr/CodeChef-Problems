@@ -4,8 +4,8 @@
 // Added by:	adrian
 // Date:	2004-06-06
 // Time limit:	5s
-// Source limit:	50000B
-// Memory limit:	1536MB
+// Source limit:50000B
+// Memory limit:1536MB
 // Cluster:	Cube (Intel G860)
 // Languages:	All
 // Resource:	ACM Central European Programming Contest, Prague 1998
