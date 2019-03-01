@@ -1,2 +1,2 @@
-# CodeChef-Problems
-Codechef Practice Problems Solutions (https://www.codechef.com)
+# SPOJ-Problems
+SPOJ Practice Problems Solutions (https://www.spoj.com/)
