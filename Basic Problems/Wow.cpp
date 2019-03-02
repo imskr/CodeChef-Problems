@@ -1,13 +1,13 @@
 // SMPWOW - Wow
 // Link: https://www.spoj.com/problems/SMPWOW/
 // ID: 15711
-//Added by:	kuszi
-//Date:	2013-08-26
-//Time limit:	  1s
-//Source limit:	50000B
-//Memory limit:	1536MB
-//Cluster:	  Cube (Intel G860)
-//Languages:	All except: ASM64
+// Added by:	kuszi
+// Date:	2013-08-26
+// Time limit:	1s
+// Source limit:50000B
+// Memory limit:1536MB
+// Cluster:	Cube (Intel G860)
+// Languages:	All except: ASM64
 // Resource:	ACM Central European Programming Contest, Prague 1998
 
 
